@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3250"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="caffeine-cup-empty.svg"
+   viewBox="0 0 24 24">
+  <defs
+     id="defs3252" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.47058824"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="18.049847"
+     inkscape:cy="10.000058"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     gridtolerance="4"
+     inkscape:window-width="1440"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4212"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4119"
+       empspacing="5"
+       visible="false"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       color="#00000b"
+       opacity="0.1254902"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3255">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 19.286912,10.199999 c -0.186806,-0.003 -0.405698,0.02787 -0.604437,0.04375 -0.03014,0.307879 -0.743745,1.0679 -0.792763,1.371875 0.077,-0.0034 0.16736,-0.04495 0.241775,-0.04375 0.903353,0.01457 1.596916,-0.08344 1.813312,0.553125 0.346234,1.018512 -0.695488,1.918518 -2.337158,2.576365 -0.396977,0.159075 -0.871094,0.167028 -1.245919,0.217862 -0.172396,0.315243 0.382322,1.202341 0.185074,1.493274 0.633547,-0.0459 1.328156,-0.162353 2.014791,-0.4375 2.338353,-0.937019 3.837718,-2.880509 3.344554,-4.331251 -0.308227,-0.906712 -1.332518,-1.423 -2.619229,-1.44375 z"
+       id="path4197-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsssccssc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,9 c 0.06997,5.537347 3.2739716,11 8.375,11 5.101026,0 8.30503,-5.462653 8.375,-11 L 17.28125,9 3.34375,9 2,9 z"
+       id="path4068-7-2"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
