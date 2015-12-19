@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Workspaces Overview
+Comment=View and manage workspaces
+Exec=dbus-send --type=method_call --dest=org.pantheon.gala /org/pantheon/gala org.pantheon.gala.PerformAction int32:1
+TryExec=gala
+StartupNotify=false
+Icon=workspace-overview
+Terminal=false
+Type=Application
+Categories=Utility
+NoDisplay=true
+X-Ubuntu-Gettext-Domain=FIXME

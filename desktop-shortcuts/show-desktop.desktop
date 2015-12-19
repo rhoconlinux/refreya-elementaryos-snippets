@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Show Desktop
+GenericName=Show Desktop
+Comment=Minimize or maximize all windows
+Categories=Utility
+Exec=show-desktop
+StartupNotify=false
+Icon=show-desktop
+Terminal=false
+Type=Application
+NoDisplay=true
+X-Ubuntu-Gettext-Domain=FIXME

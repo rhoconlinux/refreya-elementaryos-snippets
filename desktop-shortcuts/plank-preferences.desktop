@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Plank Preferences
+GenericName=Plank Preferences
+Comment=Plank Preferences
+Categories=Utility
+Exec=plank --preferences
+StartupNotify=false
+Icon=plank
+Terminal=false
+Type=Application
+NoDisplay=true
+X-Ubuntu-Gettext-Domain=FIXME
