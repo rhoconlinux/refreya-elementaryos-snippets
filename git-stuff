@@ -9,3 +9,6 @@ git push -u origin master
 
 git init ; git remote add origin https://github.com/rhoconlinux/refreya-elementaryos-snippets.git ; git add . ; git commit -m "update" ; git config --global user.email "rhoconlinux@gmail.com" ; git config --global user.name "rhoconlinux" ; git commit -m "update" ; git push -u origin master
 
+git add . ; git commit -m "update" ; git push -u origin master
+
+
